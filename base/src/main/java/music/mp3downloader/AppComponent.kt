@@ -8,7 +8,6 @@ import dagger.android.support.AndroidSupportInjectionModule
 import music.mp3downloader.app.ActivitiesModule
 import music.mp3downloader.app.AppModule
 import music.mp3downloader.dependencies.ViewModelModule
-import music.mp3downloader.PlayerApplication
 import javax.inject.Singleton
 
 @Singleton
