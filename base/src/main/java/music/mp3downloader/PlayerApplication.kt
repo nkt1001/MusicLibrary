@@ -7,5 +7,4 @@ open class PlayerApplication: DaggerApplication() {
 
     override fun applicationInjector(): AndroidInjector<out DaggerApplication>
             = DaggerAppComponent.builder().app(this).build()
-
 }
