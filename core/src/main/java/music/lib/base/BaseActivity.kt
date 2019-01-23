@@ -1,4 +1,4 @@
-package music.lib.core
+package music.lib.base
 
 import android.arch.lifecycle.LifecycleRegistry
 import android.arch.lifecycle.ViewModelProvider

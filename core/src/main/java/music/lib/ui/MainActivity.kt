@@ -2,7 +2,7 @@ package music.lib.ui
 
 import android.arch.lifecycle.ViewModelProviders
 import android.support.v7.widget.Toolbar
-import music.lib.core.BaseActivity
+import music.lib.base.BaseActivity
 import music.lib.core.R
 import music.lib.core.databinding.ActivityMainBinding
 

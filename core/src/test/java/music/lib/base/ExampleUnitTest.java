@@ -1,4 +1,4 @@
-package music.lib.core;
+package music.lib.base;
 
 import org.junit.Test;
 
