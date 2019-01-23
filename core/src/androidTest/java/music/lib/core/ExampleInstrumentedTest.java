@@ -1,4 +1,4 @@
-package music.lib.base;
+package music.lib.core;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
